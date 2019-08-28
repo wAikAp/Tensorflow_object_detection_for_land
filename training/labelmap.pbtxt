@@ -1,0 +1,14 @@
+item{
+    id: 1
+    name: 'Land'
+}
+
+item{
+    id: 2
+    name: 'Machine'
+}
+
+item{
+    id: 3
+    name: 'Water pound'
+}
